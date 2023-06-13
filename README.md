@@ -1,2 +1,1 @@
-"# livechat-analytics" 
-"# livechat-analytics" 
+Applying a sentiment analysis to live-chat of Youtube and Twitch using various NLP models and visualizing the performed analysis. It allows that content creator to quickly understand the feedback of the viewers without reading the chat.
